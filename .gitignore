@@ -1,3 +1,7 @@
 venv/
 .venv/
 __pycache__/
+
+tp1.py
+tp2.py
+tp3.py
